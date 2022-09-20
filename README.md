@@ -2,7 +2,8 @@
 
 # Hello Microverse
 
-> Description the project.
+Description the project.
+
 > Testing the linters
 
 ## Built With
